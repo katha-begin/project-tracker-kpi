@@ -1,0 +1,1 @@
+# vite.config.js — placeholder
